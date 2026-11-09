@@ -14,6 +14,14 @@
       "versions": [
         {
           "version": "0.13",
+          "buildVersion": "202611092230",
+          "date": "2026-11-09",
+          "size": 3619102,
+          "downloadURL": "https://github.com/YeungKC/duta-altstore/releases/download/202611092230/Duta-202611092230.ipa",
+          "minOSVersion": "27.0"
+        },
+        {
+          "version": "0.13",
           "buildVersion": "202611092022",
           "date": "2026-11-09",
           "size": 3619099,
