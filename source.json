@@ -13,6 +13,14 @@
       "tintColor": "000000",
       "versions": [
         {
+          "version": "0.11",
+          "buildVersion": "202611091531",
+          "date": "2026-11-09",
+          "size": 3613903,
+          "downloadURL": "https://github.com/YeungKC/duta-altstore/releases/download/202611091531/Duta-202611091531.ipa",
+          "minOSVersion": "27.0"
+        },
+        {
           "version": "0.1",
           "buildVersion": "202611091359",
           "date": "2026-11-09",
