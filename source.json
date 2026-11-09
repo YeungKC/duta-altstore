@@ -1,0 +1,31 @@
+{
+  "name": "Duta",
+  "identifier": "com.yeungkc.duta.altstore",
+  "sourceURL": "https://yeungkc.github.io/duta-altstore/source.json",
+  "apps": [
+    {
+      "name": "Duta",
+      "bundleIdentifier": "com.yeungkc.duta.tf",
+      "developerName": "YeungKC",
+      "subtitle": "Your Mac's terminals and coding agents, on your iPhone.",
+      "localizedDescription": "Duta shows the terminals and coding agents running on your Mac (herdr-core over Tailscale SSH): what each one is doing, what it waits for, and its conversation.",
+      "iconURL": "https://yeungkc.github.io/duta-altstore/icon.png",
+      "tintColor": "000000",
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "202611091359",
+          "date": "2026-11-09",
+          "size": 3613861,
+          "downloadURL": "https://github.com/YeungKC/duta-altstore/releases/download/202611091359/Duta-202611091359.ipa",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
